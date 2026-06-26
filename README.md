@@ -17,3 +17,8 @@ This project was made so that regardless of screen size would look the same on t
 **Deployment**
 This project will be avalible through github pleace enjoy.
 https://ming-ting2.github.io/se_project_spots/
+
+## Project Pitch Video
+
+Check out [this video](https://www.loom.com/share/9affcd80d5cf4cc5ad544ff478a13acf), where I describe my
+project and some challenges I faced while building it.

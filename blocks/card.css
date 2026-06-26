@@ -29,7 +29,7 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  width: 32px;
+  width: 23px;
   height: 32px;
   border: none;
   background-color: transparent;
@@ -39,6 +39,12 @@
 }
 .card__like-btn:hover {
   opacity: 0.85;
+}
+@media (max-width: 630px) {
+  .card__title {
+    font-size: 20px;
+    font-weight: 500;
+  }
 }
 @media screen and (max-width: 627px) {
   .card__image {

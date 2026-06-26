@@ -54,12 +54,16 @@
 }
 .profile__add-btn {
   margin-left: auto;
-  align-self: center;
+  margin-top: auto;
   border-radius: 8px;
+  border: none;
   background-color: #212121;
   color: #fcf5e5;
   width: 149px;
   height: 52px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 @media screen and (max-width: 627px) {
   .profile {
@@ -91,6 +95,7 @@
     background-color: #fcf5e5;
     border: 1px solid #fcf5e5;
     color: #212121b3;
+    justify-content: center;
   }
   .profile__add-btn {
     margin: 0;
